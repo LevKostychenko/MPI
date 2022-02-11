@@ -1,0 +1,14 @@
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPIClient.exe
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPIClient.deps.json
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPIClient.runtimeconfig.json
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPIClient.runtimeconfig.dev.json
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPIClient.dll
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPIClient.pdb
+D:\Projects\MPIApp\MPIClient\bin\Release\netcoreapp3.1\MPI.dll
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.AssemblyInfoInputs.cache
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.AssemblyInfo.cs
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.csproj.CoreCompileInputs.cache
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.csproj.CopyComplete
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.dll
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.pdb
+D:\Projects\MPIApp\MPIClient\obj\Release\netcoreapp3.1\MPIClient.genruntimeconfig.cache
